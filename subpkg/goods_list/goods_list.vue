@@ -1,17 +1,17 @@
 <template>
-	<view>
-		
-	</view>
+  <view>
+    goodlist
+  </view>
 </template>
 
 <script>
-	export default {
-		data() {
-			return {
-				
-			};
-		}
-	}
+  export default {
+    data() {
+      return {
+
+      };
+    }
+  }
 </script>
 
 <style lang="scss">
