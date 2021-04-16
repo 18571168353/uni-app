@@ -15,7 +15,6 @@
     </view>
   </view>
 </template>
-
 <script>
   export default {
     // 定义 props 属性，用来接收外界传递到当前组件的数据
