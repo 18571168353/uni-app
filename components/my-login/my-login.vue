@@ -66,7 +66,7 @@
         // uni.$showMsg('登录成功')
         // 2. 更新 vuex 中的 token
         // this.updateToken(loginResult.message.token)
-        this.updateToken('假token')
+        this.updateToken('token')
         // 判断 vuex 中的 redirectInfo 是否为 null
         // 如果不为 null，则登录成功之后，需要重新导航到对应的页面
         this.navigateBack()
